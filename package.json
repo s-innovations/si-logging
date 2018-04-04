@@ -1,0 +1,19 @@
+{
+    "version": "1.0.0",
+    "name": "si-logging",
+    "author": "Poul K. Sorensen <pks@s-innovations.net> (http://twitter.com/pksorensen)",
+    "homepage": "https://www.s-innovations.net",
+    "bugs": {
+        "url": "https://github.com/s-innovations/si-appbuilder/issues",
+        "email": "bugs@s-innovations.com"
+    },
+    "devDependencies": {
+        "si-appbuilder-application-insights-middleware": "0.0.3",
+        "si-appbuilder": "0.0.3",
+        "typescript": "2.8.3"
+    },
+    "files": [
+        "artifacts"
+    ],
+    "typings": "artifacts/typings/index.d.ts"
+}
